@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "tk.margho.twa",
+                   "sha256_cert_fingerprints": ["8B:7D:5B:EC:D4:01:6F:26:0E:74:CD:47:1F:F0:FA:24:4B:26:78:10:87:17:B0:7B:92:77:B6:A6:50:6E:FF:CF"] }
+    }]
